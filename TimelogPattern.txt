@@ -1,7 +1,4 @@
-[When you submited the time log, please remove all sentences enclosed by square brackets]
-[In the whole document, use 4 white spaces for each indentation. NEVER USE TAB!!!!!]
-
-Report submited at 2020-09-23 4:30 [2020-09-23]
+Report submited at 2020-09-23 5:33
 
 Role
     Assignment Leader: Paula Pamplona Ramirez (should be one person)
