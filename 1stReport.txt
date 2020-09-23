@@ -5,11 +5,11 @@ Role
     Programmer       : Ryan Hines  (One or two person)
     Tester           : Tae Kweon  (One or two person)
 
-Work to be done [This section is required for each report]
+Work to be done
     All team members
         We are to review the lecture videos to get a better understanding of the project.
 	We will meet again tomorrow to discuss our individual responsibilities.
 
-Meet deadline [This section is required for each report]
+Meet deadline
     All team members
         Yes, we will all be able to finish what has been assigned to us. 
