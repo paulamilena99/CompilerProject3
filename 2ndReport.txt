@@ -7,7 +7,7 @@ Role
 
 Progress 
     Ryan Hines
-        Began working on the tiger.yy file to get ready to submit for next week.
+        Began working on the tiger.yy file to get ready to submit.
     Tae Kweon
         Worked with the programmer and began coming up with some test cases.
 
