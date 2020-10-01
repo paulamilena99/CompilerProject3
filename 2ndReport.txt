@@ -1,32 +1,24 @@
 Report submited at 2012-09-28 4:30
 
-Role [This section is required for each report, and should remain the same for all reports)
+Role
     Assignment Leader: Paula Pamplona Ramirez (should be one person)
     Programmer       : Ryan Hines  (One or two person)
     Tester           : Tae Kweon  (One or two person)
 
-Progress [This section is required for each report]
-    Name of a team member
-        His/her marjor work since last time the time log has been submitted
-    Name of a team member
-        His/her marjor work since last time the time log has been submitted
-    [Repeat above for each team member]
+Progress 
+    Ryan Hines
+        Began working on the tiger.yy file to get ready to submit for next week.
+    Tae Kweon
+        Worked with the programmer and began coming up with some test cases.
 
-Challenging Issues [This section is optional]
-    List major problems conquered by team members or to be solved by team members.
+Work to be done 
+    Ryan Hines
+        Complete progress with tiger.yy file
+    Tae Kweon
+        Complete the test cases and the TestReport for the deadline
 
-Work to be done [This section is required for each report]
-    Name of a team member
-        His/her future work before next deadline
-    Name of a team member
-        His/her future work before next deadline
-    [Repeat above for each team member]
-
-Meet deadline [This section is required for each report]
-    Name of Developer(s)
-        Will the developer(s) be able to finish and submit the work before the next
-	deadline?  If no, please explain why?
-    Name of Tester(s)
-        Will the tester(s) be able to finish and submit the work before the next
-	deadline?  If no, please explain why?
-
+Meet deadline
+    Ryan Hines
+        Yes, our programmer should be able to complete this task by the deadline.
+    Tae Kweon
+        Yes, he should be able to complete this task by the deadline
