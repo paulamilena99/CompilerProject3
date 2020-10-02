@@ -1,0 +1,28 @@
+Report submited at 2020-10-1 7:30
+
+Role
+    Assignment Leader: Paula Pamplona Ramirez (should be one person)
+    Programmer       : Ryan Hines  (One or two person)
+    Tester           : Tae Kweon  (One or two person)
+
+Progress 
+    Ryan Hines
+        Reference tiger manual to write CFG. 
+    Tae Kweon
+        Wrote the test cases and ran through tiger.yy.
+    Paula Pamplona
+        Met with team to discuss progress on project.
+
+Work to be done
+    Ryan Hines
+        Fewer shift reduce conflicts. Fix proper error display.
+    Tae Kweon
+        Create more test cases.
+    Paula Pamplona
+        Turn in finished project by the deadline.
+
+Meet deadline 
+    Ryan Hines
+        Yes, the developer will be able to finish the work.
+    Tae Kweon
+        Yes, the tester will be able to finish the work.
